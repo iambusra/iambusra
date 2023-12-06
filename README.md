@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Büşra Marşan, an MA student at Boğaziçi University, Linguistics Department.
+- 👋 Hi, I’m Büşra Marşan, a PhD student at Stnaford University, Linguistics Department.
 - 👀 I’m interested in NLP, NLI, computational and formal semantics, and computational linguistics.
 - 🌱 I’m currently working on CNLI-TR: A challenge dataset in Turkish for NLI tasks.
 
