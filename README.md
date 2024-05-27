@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Büşra Marşan, a PhD student at Stanford University, Linguistics Department.
+- 👋 Hi, I’m Büşra Marşan, a PhD student at Stanford University, Linguistics Department & a member of Stanford NLP.
 - 👀 I’m interested in NLP, NLI, computational and formal semantics, and computational linguistics.
-- 🌱 I’m currently working on CNLI-TR: A challenge dataset in Turkish for NLI tasks.
+- 🌱 I’m currently working on benchmarking!
 
 <!---
 iambusra/iambusra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
